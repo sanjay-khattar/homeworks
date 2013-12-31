@@ -23,7 +23,6 @@ public class ImageLoader {
 	 * 
 	 */
 	public ImageLoader() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public static BufferedImage loadImage(String strImgUrl) {
