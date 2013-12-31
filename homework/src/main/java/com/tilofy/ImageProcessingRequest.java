@@ -1,7 +1,7 @@
 /**
- *	File Name	: 	ImageProcessingRequest.java
+ *  File Name		: 	ImageProcessingRequest.java
  *  Created		:	Dec 22, 2013 8:06:13 AM
- *  Author		:   Sanjay Khattar
+ *  Author		:   	Sanjay Khattar
  *  Purpose		:
  */
 package com.tilofy;
