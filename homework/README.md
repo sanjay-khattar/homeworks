@@ -1,5 +1,5 @@
 # What is this? 
-This homework is a part of the interview process for Tilofy. The idea is to take a real world problem we have at Tilofy and try to present to candidates. The candidate can complete the homework in their own time. The code should be your highest quality code that you would deliver to your team for testing in production. 
+This homework is a part of some interview process. 
 
 # What is the goal?
 The goal is to create a web application that can resize images without blocking. This means you need to create a web application that can queue up images and later fetched when complete. Your web application should be able to do two things.
